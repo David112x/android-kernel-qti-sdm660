@@ -1,0 +1,13 @@
+#liulinsheng@wind-mobi.com 20180809 begin
+config WIND_ASUS_USB_TEMP_CHECK
+  bool "CONFIG_WIND_ASUS_USB_TEMP_CHECK"
+  default n
+  help
+    CONFIG_WIND_ASUS_USB_TEMP_CHECK
+	
+config WIND_FACTORY_CYCLE_TEST
+  bool "CONFIG_WIND_FACTORY_CYCLE_TEST"
+  default n
+  help
+    CONFIG_WIND_FACTORY_CYCLE_TEST
+#liulinsheng@wind-mobi.com 20180809 end
